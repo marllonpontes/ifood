@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">iFood</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_senha">Senha</string>
+    <string name="txt_logar">Logar</string>
+    <string name="txt_cadastre_se">Cadastre-se</string>
+    <string name="txt_acessar">Acessar</string>
+    <string name="txt_usuario">Usuário</string>
+    <string name="txt_empresa">Empresa</string>
+    <string name="txt_novo_produto">Novo Produto</string>
+    <string name="txt_configuracoes">Configurações</string>
+    <string name="txt_sair">Sair</string>
+    <string name="txt_nome_empresa">Nome empresa</string>
+    <string name="txt_categoria">Categoria</string>
+    <string name="txt_tempo_entrega">Tempo entrega</string>
+    <string name="txt_taxa_entrega">Taxa entrega</string>
+    <string name="txt_salvar">Salvar</string>
+    <string name="txt_nome_produto">Nome produto</string>
+    <string name="txt_descricao">Descrição</string>
+    <string name="txt_preco">Preço</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_endereco_completo">Endereço completo</string>
+    <string name="txt_ver_carrinho">Ver carrinho</string>
+    <string name="txt_qtd">Qtd: 0</string>
+    <string name="txt_reais">R$ 0</string>
+    <string name="txt_confirmar_pedido">Confirmar pedido</string>
+</resources>
