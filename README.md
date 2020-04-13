@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img alt="iFood" src=".github/logo.jpg" width="200px">
+  <img alt="iFood" src=".github/logo.jpg" width="400px">
   <br>
-  WhatsApp
+  iFood
 </h1>
 
 <h4 align="center">
