@@ -1,14 +1,12 @@
 <h1 align="center">
-  <img alt="iFood" src=".github/logo.jpg" width="400px">
-  <br>
-  iFood
+  <img alt="iFood" src=".github/logo.jpg" width="300px">
 </h1>
 
 <h4 align="center">
   iFood Clone App com Java e Firebase
 </h4>
 
-<p align="center" paddingleft="10px">
+<p align="center" paddingleft="60px">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>
