@@ -18,6 +18,8 @@
   <img alt="iFood" src=".github/ifood_cliente.gif" width="30%">
 </p>
 
+<br>
+
 <p align="center">
   <img alt="iFood" src=".github/ifood_empresa.gif" width="30%">
 </p>
@@ -32,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O iFood Clone é um projeto que visa Delivery de comida online pra todos os tipos de fome.
+O iFood Clone é um projeto que visa delivery de comida online pra todos os tipos de fome.
 
 ## 🤔 Como contribuir
 
