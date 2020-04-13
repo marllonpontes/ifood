@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="iFood" src=".github/logo.png" width="200px">
+  <img alt="iFood" src=".github/logo.jpg" width="200px">
   <br>
   WhatsApp
 </h1>
@@ -8,7 +8,7 @@
   iFood Clone App com Java e Firebase
 </h4>
 
-<p align="center">
+<p align="center" paddingleft="10px">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>
