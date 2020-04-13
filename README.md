@@ -16,6 +16,9 @@
 
 <p align="center">
   <img alt="iFood" src=".github/ifood_cliente.gif" width="30%">
+</p>
+
+<p align="center">
   <img alt="iFood" src=".github/ifood_empresa.gif" width="30%">
 </p>
 
